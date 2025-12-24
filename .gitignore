@@ -1,0 +1,16 @@
+# Obsidian vault settings (keep private)
+.obsidian/
+
+# Environment variables and secrets
+.env
+.env.local
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Personal notes
+personal-notes/
+private/
