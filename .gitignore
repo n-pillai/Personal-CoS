@@ -14,3 +14,15 @@ Thumbs.db
 # Personal notes
 personal-notes/
 private/
+
+# Learner-created personal files (keep these private!)
+My_Goals.md
+My_Goals.txt
+User_Profile.md
+User_Profile.txt
+CoS_Observations.md
+Monthly_Review*.md
+Decision_Log.md
+
+# Local configuration
+CLAUDE.local.md
