@@ -26,3 +26,6 @@ Decision_Log.md
 
 # Local configuration
 CLAUDE.local.md
+
+# Claude Code temporary files
+tmpclaude-*
