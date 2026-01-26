@@ -1,3 +1,17 @@
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+
+[Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
+
+</div>
+
+---
+
 # Module 2: Know Yourself - Create Your User Profile
 
 ## What You'll Do
@@ -331,3 +345,15 @@ Your User Profile isn't static. As you learn about yourself:
 **Remember:** The quality of your Personal CoS depends on the quality of your self-knowledge. You've just done the hardest work - being honest with yourself about how you actually operate.
 
 That honesty is what will make this system work.
+
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by [Nisha Pillai](https://nisha-pillai.com)
+
+[← Back to Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [View All Modules](../README.md#course-modules)
+
+</div>

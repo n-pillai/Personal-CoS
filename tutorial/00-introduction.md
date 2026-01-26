@@ -1,3 +1,17 @@
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+
+[Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
+
+</div>
+
+---
+
 # Module 0: Introduction - Why Build a Personal Chief of Staff?
 
 ## What You'll Learn
@@ -204,3 +218,15 @@ Continue to **Module 1: Setup** to:
 **Remember:** You're not building a productivity tool. You're building a strategic thinking partner that knows you deeply and keeps you focused on what matters.
 
 Let's build it.
+
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by [Nisha Pillai](https://nisha-pillai.com)
+
+[← Back to Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [View All Modules](../README.md#course-modules)
+
+</div>

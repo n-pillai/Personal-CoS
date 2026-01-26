@@ -1,3 +1,17 @@
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+
+[Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
+
+</div>
+
+---
+
 # Quick Reference Guide - Personal Chief of Staff
 
 **Visual flowcharts and cheat sheets for your Personal CoS system**
@@ -638,3 +652,15 @@ Your CoS will meet you there.
 ---
 
 **📚 Back to [Main Tutorial](../README.md)**
+
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by [Nisha Pillai](https://nisha-pillai.com)
+
+[← Back to Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [View All Modules](../README.md#course-modules)
+
+</div>

@@ -1,3 +1,17 @@
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+
+[Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
+
+</div>
+
+---
+
 # Module 1: Setup - Get Claude Pro & Create Your Project
 
 ## What You'll Do
@@ -228,3 +242,15 @@ Continue to **Module 2: Know Yourself** to:
 ---
 
 **Remember:** You're building a thinking partner that will know you better than any productivity tool ever has. The setup time you invest now pays dividends daily.
+
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by [Nisha Pillai](https://nisha-pillai.com)
+
+[← Back to Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [View All Modules](../README.md#course-modules)
+
+</div>
