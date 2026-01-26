@@ -6,11 +6,11 @@
 
 Created by **[Nisha Pillai](https://nisha-pillai.com)**
 
-*Angel investor and builder • Creating AI tools that actually work in complex organizations*
+*Strategist, angel, and builder • Creating AI tools that actually work in complex organizations*
 
 ---
 
-🌐 **[Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** | 📧 **[Contact](https://nisha-pillai.com/contact)** | 💼 **[LinkedIn](https://www.linkedin.com/in/nishapillai/)**
+🌐 **[Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** | 💼 **[LinkedIn](https://www.linkedin.com/in/nishapillai/)**
 
 </div>
 
