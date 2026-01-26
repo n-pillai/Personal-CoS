@@ -30,3 +30,6 @@ CLAUDE.local.md
 # Claude Code temporary files
 tmpclaude-*
 *.code-workspace
+
+# Branding configuration (for Claude's reference only)
+BRANDING.md
