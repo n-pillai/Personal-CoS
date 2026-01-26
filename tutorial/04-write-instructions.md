@@ -4,7 +4,7 @@
 
 **[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
 
-Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Strategist and builder • Creating AI tools that actually work.*
 
 [Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
 
