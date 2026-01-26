@@ -1,6 +1,5 @@
 # AI Chief of Staff Course
 
-
 ---
 
 ## What You'll Build
@@ -44,7 +43,7 @@ A personalized AI system using Claude Projects that:
 
 ## About This Course
 
-I built a Personal Chief of Staff for myself because I needed it. After using it daily and seeing my execution transform, I'm teaching you to build yours.
+I built a Personal Chief of Staff for myself. After using it daily and seeing the value of it, I'm teaching you to build yours.
 
 This isn't a template to copy—it's a methodology to adapt for your specific situation.
 
