@@ -10,7 +10,7 @@ Created by **[Nisha Pillai](https://nisha-pillai.com)**
 
 ---
 
-🌐 **[Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** | 📧 **[Contact](https://nisha-pillai.com/contact)** | 💼 **[LinkedIn](https://linkedin.com/in/nisha-pillai)**
+🌐 **[Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** | 📧 **[Contact](https://nisha-pillai.com/contact)** | 💼 **[LinkedIn](https://www.linkedin.com/in/nishapillai/)**
 
 </div>
 
@@ -288,7 +288,7 @@ Or jump to the **[Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)**
 
 **Stuck?** Check the [Quick Reference Guide](tutorial/QUICK-REFERENCE.md) troubleshooting section.
 
-**Want to share your progress?** Tag me on [LinkedIn](https://linkedin.com/in/nisha-pillai) with what you're building.
+**Want to share your progress?** Tag me on [LinkedIn](https://www.linkedin.com/in/nishapillai/) with what you're building.
 
 **Built your CoS and want to help others?** Pay it forward. Share this course.
 
