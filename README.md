@@ -6,7 +6,7 @@
 
 Created by **[Nisha Pillai](https://nisha-pillai.com)**
 
-*Strategist, angel, and builder • Creating AI tools that actually work in complex organizations*
+*Strategist and builder • Creating AI tools that actually work.*
 
 ---
 
@@ -242,13 +242,11 @@ It's the difference between talking to a stranger vs. someone who knows you deep
 
 **[Nisha Pillai](https://nisha-pillai.com)**
 
-*Angel investor and builder*
+*Strategist and builder.*
 
 </div>
 
-I invest in early-stage companies and still build. This matters because I don't just think about AI tools theoretically—I use them in my actual work.
-
-I built this Personal Chief of Staff system for myself because I needed it. As someone who works across multiple domains (investing, building, advising), I was struggling with the same execution gap many people face: knowing what to do but not consistently doing it.
+I built this Personal Chief of Staff system for myself because I needed it. As someone who works across multiple domains, I was struggling with the same execution gap many people face: knowing what to do but not consistently doing it.
 
 After building and using this system daily, my execution transformed. Not because I worked more hours, but because I worked on the right things with real accountability.
 
@@ -257,7 +255,7 @@ I'm sharing this methodology because:
 2. Others have the same problem
 3. Teaching you to build yours is more valuable than giving you mine
 
-**My positioning:** Practitioner voice, not consultant speak. Real tools for real execution problems.
+**My positioning:** Practitioner. Real tools for real execution problems.
 
 **Disclaimer:** I am not affiliated with Anthropic or Claude AI. I'm an independent creator teaching a methodology I built using their platform. All views and approaches are my own.
 
