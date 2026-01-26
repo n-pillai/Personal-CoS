@@ -287,12 +287,13 @@ You're the kind of person who:
 
 ## License
 
-This tutorial is freely available for personal use.
+This tutorial is released under the [MIT License](LICENSE).
 
-Feel free to:
+You are free to:
 - Build your own Personal CoS
 - Share this tutorial with others
-- Adapt it to your needs
+- Adapt and modify it to your needs
+- Use it for personal or educational purposes
 
 If this helps you accomplish something meaningful, pay it forward by helping someone else build theirs.
 
