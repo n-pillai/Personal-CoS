@@ -1,16 +1,5 @@
 # AI Chief of Staff Course
 
-**Build a strategic thinking partner that keeps you executing on what matters.**
-
-Created by **[Nisha Pillai](https://nisha-pillai.com)** • Strategist and builder
-
----
-
-## Get Started
-
-👉 **[Visit the Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** for full details, module overview, and to begin.
-
-Or jump straight to **[Module 0: Introduction](tutorial/00-introduction.md)** to start building your AI Chief of Staff.
 
 ---
 
@@ -27,6 +16,12 @@ A personalized AI system using Claude Projects that:
 **Requirements:** Claude Pro subscription ($20/month), honest self-reflection, daily commitment
 
 **No coding required.**
+
+---
+
+## Get Started
+
+👉 **[Visit the Course Homepage](https://nisha-pillai.com/ai-chief-of-staff)** for full details, module overview, and to begin.
 
 ---
 
