@@ -1,3 +1,17 @@
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Building AI tools that actually work*
+
+[Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [All Modules](../README.md#course-modules) • [Quick Reference](QUICK-REFERENCE.md)
+
+</div>
+
+---
+
 # Module 4: Write Instructions - Program Your Chief of Staff
 
 ## What You'll Do
@@ -406,3 +420,15 @@ Your Custom Instructions aren't set in stone.
 You've just programmed a strategic thinking partner that knows you deeply and will keep you focused on what matters.
 
 Now let's learn how to use it.
+
+---
+
+<div align="center">
+
+**[AI Chief of Staff Course](https://nisha-pillai.com/ai-chief-of-staff)**
+
+Created by [Nisha Pillai](https://nisha-pillai.com)
+
+[← Back to Course Home](https://nisha-pillai.com/ai-chief-of-staff) • [View All Modules](../README.md#course-modules)
+
+</div>
