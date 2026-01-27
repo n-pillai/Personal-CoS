@@ -339,11 +339,11 @@ If the answer to any of these is "no," revise before moving forward.
 
 ## What You've Accomplished
 
-✅ Identified your true Priority 1 goal(s)
-✅ Made goals specific and measurable
-✅ Documented the deep WHY behind each goal
-✅ Created weekly targets to track progress
-✅ Uploaded Goals document to your CoS Project
+* ✅ Identified your true Priority 1 goal(s)
+* ✅ Made goals specific and measurable
+* ✅ Documented the deep WHY behind each goal
+* ✅ Created weekly targets to track progress
+* ✅ Uploaded Goals document to your CoS Project
 
 **Your CoS now knows WHAT you're working toward and WHY it matters.**
 

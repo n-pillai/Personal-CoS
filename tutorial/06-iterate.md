@@ -341,21 +341,21 @@ Add these to your Profile so CoS can reference them.
 
 **Good signs your system is working:**
 
-✅ You're making measurable progress on P1 goal
-✅ Check-ins feel valuable, not like a chore
-✅ Your CoS asks questions that make you think
-✅ You catch yourself being more strategic
-✅ You course-correct faster when off track
-✅ You're more honest with yourself about progress
+* ✅ You're making measurable progress on P1 goal
+* ✅ Check-ins feel valuable, not like a chore 
+* ✅ Your CoS asks questions that make you think
+* ✅ You catch yourself being more strategic
+* ✅ You course-correct faster when off track
+* ✅ You're more honest with yourself about progress
 
 **Warning signs something needs adjustment:**
 
-❌ You're skipping check-ins frequently
-❌ Updates are vague and you're not being challenged
-❌ No real progress on P1 goal for weeks
-❌ CoS feels like it doesn't understand you
-❌ You dread the check-ins
-❌ It feels like performative productivity theater
+* ❌ You're skipping check-ins frequently
+* ❌ Updates are vague and you're not being challenged
+* ❌ No real progress on P1 goal for weeks
+* ❌ CoS feels like it doesn't understand you
+* ❌ You dread the check-ins
+* ❌ It feels like performative productivity theater
 
 **If you see warning signs: Review and adjust, don't abandon.**
 
@@ -436,13 +436,13 @@ Add these to your Profile so CoS can reference them.
 
 ## What You've Accomplished
 
-✅ Understanding of how to iterate and improve
-✅ Monthly and quarterly review structures
-✅ Knowledge of when and how to update documents
-✅ Long-term strategies for maintaining effectiveness
-✅ Complete Personal CoS system with evolution plan
+* ✅ Understanding of how to iterate and improve
+* ✅ Monthly and quarterly review structures
+* ✅ Knowledge of when and how to update documents
+* ✅ Long-term strategies for maintaining effectiveness
+* ✅ Complete Personal CoS system with evolution plan
 
-**You have everything you need for a lifetime practice.**
+**You have everything you need for a long-lived practice.**
 
 ---
 

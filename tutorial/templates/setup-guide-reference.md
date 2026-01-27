@@ -2,7 +2,7 @@
 
 **For people who want to use this system with their own Claude Project**
 
-Last updated: December 16, 2025
+Last updated: [date] 
 
 ---
 

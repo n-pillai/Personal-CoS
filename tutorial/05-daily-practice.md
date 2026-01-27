@@ -383,10 +383,10 @@ You can't imagine working without this. It's changed how you execute.
 
 ## What You've Accomplished
 
-✅ Understanding of daily check-in structure
-✅ Examples of effective conversations
-✅ Strategies for getting maximum value
-✅ Plan for building the daily habit
+* ✅ Understanding of daily check-in structure
+* ✅ Examples of effective conversations
+* ✅ Strategies for getting maximum value
+* ✅ Plan for building the daily habit
 
 **You know how to USE your Personal CoS.**
 
