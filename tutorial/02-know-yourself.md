@@ -20,7 +20,7 @@ Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Strategist and buil
 - Identify your constraints and what you need to track
 - Create your User Profile for your CoS
 
-**Time Required:** 1-2 hours (don't rush this)
+**Time Required:** 1-2 hours (**don't rush this**)
 
 ---
 

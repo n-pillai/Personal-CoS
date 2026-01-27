@@ -31,7 +31,6 @@ Your Personal CoS runs on Claude Projects, which requires Claude Pro.
 **Why Claude Pro?**
 - Projects feature (critical for this system)
 - Higher usage limits for daily check-ins
-- Better model performance for strategic thinking
 - Cost: $20/month
 
 **How to Subscribe:**
@@ -42,13 +41,11 @@ Your Personal CoS runs on Claude Projects, which requires Claude Pro.
 4. Complete payment ($20/month)
 5. Verify you see "Pro" badge in your account
 
-**Note:** If you're not sure about committing, that's okay. You can try the free version to understand how Claude works, but you'll need Pro to complete this tutorial (Projects are Pro-only).
+**Note:** You'll need Pro to complete this tutorial (Projects are Pro-only).
 
 ---
 
 ## Step 2: Understand Claude Projects
-
-Before creating your Personal CoS Project, understand what Projects are:
 
 **What is a Claude Project?**
 
@@ -60,7 +57,7 @@ A Project is like giving Claude a dedicated workspace with:
 
 **Why Projects are Perfect for Personal CoS:**
 
-Traditional Claude chat:
+Claude chat:
 - ❌ Forgets context between conversations
 - ❌ No access to your personal documents
 - ❌ Generic responses
@@ -141,7 +138,6 @@ You'll be using this daily, so set up for easy access:
 - Your Projects sync across devices
 
 ---
-
 ## Understanding Costs
 
 **What you'll pay:**
