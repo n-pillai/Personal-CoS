@@ -20,7 +20,9 @@ Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Strategist and buil
 - Identify your constraints and what you need to track
 - Create your User Profile for your CoS
 
-**Time Required:** 1-2 hours (**don't rush this**)
+**Time Required:** 1-2 hours, total. Don't rush this. 
+
+It doesn't have to be done in one shot. You can optionally get to a first version by uploading the User_Profile template to Claude (or an LLM of your choice) and asking it to interview you step by step until the document is complete. Be sure to iterate and update the document over time until you're happy with the way your Personal CoS understands and works with you. 
 
 ---
 
