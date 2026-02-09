@@ -22,7 +22,7 @@ Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Strategist and buil
 
 **Time Required:** 30 minutes
 
-This is typically faster than the previous modules since you're building on what you've already documented about yourself and your goals. However, you can optionally get to a first version by uploading the Project_Instructions template to Claude (or an LLM of your choice) and asking it to interview you step by step until you have a complete set of custom instructions. For a streamlined experience, check out the [Chief of Staff Compiler](https://chatgpt.com/g/g-698385dfc500819182856fc4fb2ad658-chief-of-staff-compiler) CustomGPT created by [Annenya](https://www.linkedin.com/in/anennya), which helps you build your Custom Instructions through guided conversation. Be sure to iterate and refine your instructions over time as you learn what works best for your interaction style.
+This is typically faster than the previous modules since you're building on what you've already documented about yourself and your goals. However, you can optionally get to a first version by uploading the Project_Instructions template to Claude (or an LLM of your choice) and asking it to interview you step by step until you have a complete set of custom instructions. For a streamlined experience, check out the [Chief of Staff Compiler](https://chatgpt.com/g/g-698385dfc500819182856fc4fb2ad658-chief-of-staff-compiler) CustomGPT created by [Anennya](https://www.linkedin.com/in/anennya), which helps you build your Custom Instructions through guided conversation. Be sure to iterate and refine your instructions over time as you learn what works best for your interaction style.
 
 ---
 
