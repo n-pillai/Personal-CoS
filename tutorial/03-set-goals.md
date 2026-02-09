@@ -22,7 +22,7 @@ Created by **[Nisha Pillai](https://nisha-pillai.com)** • *Strategist and buil
 
 **Time Required:** 1-2 hours, total. Don't rush this. 
 
-It doesn't have to be done in one shot. You can optionally get to a first version by uploading the Goals_Document template to Claude (or an LLM of your choice) and asking it to interview you step by step until the document is complete. For a streamlined experience, check out the [Chief of Staff Compiler](https://chatgpt.com/g/g-698385dfc500819182856fc4fb2ad658-chief-of-staff-compiler) CustomGPT created by [Annenya](https://www.linkedin.com/in/anennya), which helps you build your Goals document through guided conversation. Be sure to iterate and update the document over time until you're happy with the way your Personal CoS is prioritizing things for you.  
+It doesn't have to be done in one shot. You can optionally get to a first version by uploading the Goals_Document template to Claude (or an LLM of your choice) and asking it to interview you step by step until the document is complete. For a streamlined experience, check out the [Chief of Staff Compiler](https://chatgpt.com/g/g-698385dfc500819182856fc4fb2ad658-chief-of-staff-compiler) CustomGPT created by [Anennya](https://www.linkedin.com/in/anennya), which helps you build your Goals document through guided conversation. Be sure to iterate and update the document over time until you're happy with the way your Personal CoS is prioritizing things for you.  
 
 ---
 
