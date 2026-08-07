@@ -125,7 +125,7 @@ By the end, you'll have:
 
 **Required:**
 - Claude Pro subscription ($20/month)
-- 3-5 hours total time across all modules
+- ~1 hour to get started; 3-5 hours total across all modules
 - Willingness to be honest with yourself
 - Commitment to daily 10-minute check-ins
 
@@ -162,7 +162,7 @@ By the end, you'll have:
 - Module 4 (Write Instructions): 30 minutes
 - Module 5 (Daily Practice): 30 minutes
 
-**Total:** 3-5 hours spread across a week
+**Total:** ~1 hour to a working start; 3-5 hours spread across a week for the full setup
 
 **Ongoing:**
 - Daily check-ins: 10-15 minutes/day
