@@ -525,7 +525,6 @@ Now:
 - [User Profile Template](templates/User_Profile_Template.md)
 - [Goals Document Template](templates/Goals_Document_Template.md)
 - [Project Instructions Template](templates/Project_Instructions_Generic.md)
-- [Setup Guide Reference](templates/setup-guide-reference.md)
 
 **Review This Tutorial:**
 - [Module 0: Introduction](00-introduction.md)
