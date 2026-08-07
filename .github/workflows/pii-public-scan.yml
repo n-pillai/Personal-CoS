@@ -1,0 +1,94 @@
+# Generic PII pattern scan for PUBLIC repos — full working-tree scan, masked output.
+#
+# CANONICAL COPY lives in workspace-config (where it also runs, harmlessly, as an
+# extra content floor); vendored byte-identically into every public repo via
+# downstream-vendored.json. Added 2026-08-07 after the architecture review found a
+# perfect inversion: every PII gate in the fleet pointed at the private repos, while
+# all four critical findings (a real gmail in a PR body, a reading-history log in PR
+# diffs, a child's school in git history, briefs in a public fork) were on PUBLIC
+# surfaces with zero scanning.
+#
+# Deliberately GENERIC: regex families only (email/phone/SSN shapes), no denylist —
+# the denylist is itself the most sensitive artifact in the system and must never
+# reach a public repo, its secrets, or its logs. Matches are MASKED in output
+# because public-repo Actions logs are public.
+#
+# Full-tree scan by design (no commit-range computation): these repos are small, and
+# LEARNINGS 2026-08-03 documents how range computation silently certifies nothing on
+# exactly the pushes that matter most (force-pushes).
+
+name: pii-public-scan
+
+on:
+  push:
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  pii-public-scan:
+    name: pii-public-scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scan tree (and PR text) for PII patterns
+        env:
+          # Env-var passing, never ${{ }} inside the script — injection-safe.
+          SCAN_PR_TITLE: ${{ github.event.pull_request.title }}
+          SCAN_PR_BODY: ${{ github.event.pull_request.body }}
+        shell: python {0}
+        run: |
+          import os, re, sys
+          from pathlib import Path
+
+          EMAIL = re.compile(r"\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}\b")
+          PHONE = re.compile(r"(?<![\d.\-])(?:\+1[\s.-]?)?(?:\(\d{3}\)\s?|\d{3}[\s.-])\d{3}[\s.-]\d{4}(?![\d.-])")
+          SSN = re.compile(r"\b\d{3}-\d{2}-\d{4}\b")
+          EXEMPT_EMAIL = re.compile(
+              r"@users\.noreply\.github\.com$|^no-?reply@|@example\.(com|org|net)$|@.*\.invalid$",
+              re.IGNORECASE)
+          SKIP_DIRS = {".git", "node_modules", "__pycache__", ".venv"}
+          MAX_BYTES = 1_000_000
+
+          def mask(s): return (s[0] + "***") if s else "***"
+
+          findings = []
+          def scan_text(rel, text):
+              for i, line in enumerate(text.splitlines(), 1):
+                  low = line.lower()
+                  for m in EMAIL.finditer(line):
+                      if EXEMPT_EMAIL.search(m.group(0)): continue
+                      if "[pii-allow: email]" in low: continue
+                      findings.append((rel, i, "EMAIL", mask(m.group(0))))
+                  if "[pii-allow: phone]" not in low:
+                      for m in PHONE.finditer(line):
+                          findings.append((rel, i, "PHONE", mask(m.group(0))))
+                  for m in SSN.finditer(line):
+                      findings.append((rel, i, "SSN", mask(m.group(0))))
+
+          root = Path(".")
+          for p in sorted(root.rglob("*")):
+              if not p.is_file(): continue
+              if any(part in SKIP_DIRS for part in p.parts): continue
+              try:
+                  if p.stat().st_size > MAX_BYTES: continue
+                  text = p.read_bytes().decode("utf-8")
+              except (OSError, UnicodeDecodeError):
+                  continue
+              scan_text(str(p), text)
+
+          for var in ("SCAN_PR_TITLE", "SCAN_PR_BODY"):
+              val = os.environ.get(var)
+              if val: scan_text(f"<{var}>", val)
+
+          if findings:
+              print(f"[public-pii] {len(findings)} finding(s) - matches masked:")
+              for rel, line, kind, masked in findings:
+                  print(f"  {rel}:{line}  {kind}  {masked}")
+              print(f"::error title=PII pattern found::{len(findings)} masked finding(s) - see job log")
+              sys.exit(1)
+          print("[public-pii] clean")
