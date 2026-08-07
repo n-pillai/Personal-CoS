@@ -51,7 +51,6 @@ This is a complete personal productivity and accountability system that runs in 
 1. In Claude, create a new Project
 2. Name it something like "Personal CoS" or "Leo" (or your preferred name)
 3. Upload the **Project_Instructions_Generic.md** file as project knowledge
-4. Upload the **Project_Instructions_Supplement.md** file as project knowledge
 
 ### STEP 2: Document Yourself (1-2 hours)
 
