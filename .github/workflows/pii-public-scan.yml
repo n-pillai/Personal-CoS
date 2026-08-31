@@ -20,9 +20,11 @@
 name: pii-public-scan
 
 on:
+  # pull_request removed 2026-08-30: it fired on the same commits `push`
+  # already scans (every PR commit lands via a branch push first), doubling
+  # billed job-minutes for no extra coverage. push already covers direct
+  # commits, PR-branch commits, and bot-authored branches alike.
   push:
-  pull_request:
-    types: [opened, edited, reopened, synchronize]
 
 permissions:
   contents: read
