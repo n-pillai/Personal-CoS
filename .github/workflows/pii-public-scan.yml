@@ -1,14 +1,9 @@
-# Generic PII pattern scan for PUBLIC repos — full working-tree scan, masked output.
+# Generic PII pattern scan for public repos — full working-tree scan, masked output.
+# Do not edit this copy directly; it's maintained centrally and synced here.
 #
-# Canonical copy: workspace-config (private). Vendored byte-identically to every
-# public repo via downstream-vendored.json — edit canonical, then re-vendor here.
-#
-# Deliberately generic: regex only (email/phone/SSN shapes), no denylist — a
-# denylist is itself sensitive and must never reach a public repo or its logs.
-# Matches are masked in output since public-repo Actions logs are public.
-#
-# Full-tree scan, no commit-range diffing: these repos are small, and range
-# diffing misses exactly the pushes that matter most (force-pushes).
+# Deliberately generic (regex only: email/phone/SSN shapes, no denylist) so the
+# scan itself can't leak anything. Matches are masked since public logs are public.
+# Full-tree, not diff-based, so a force-push can't slip past it.
 
 name: pii-public-scan
 
