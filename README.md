@@ -10,7 +10,7 @@ A personalized AI system using Claude Projects that:
 - Keeps you focused on Priority 1 work
 - Adapts to how you actually work
 
-**Time:** ~1 hour to get started; 3-5 hours across Week 1 for complete setup + 10-15 min/day ongoing
+**Time:** ~1 hour to get started; 3-5 hours max for complete setup + 10-15 min/day ongoing
 
 **Requirements:** Claude Pro subscription ($20/month), honest self-reflection, daily commitment
 
