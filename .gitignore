@@ -33,3 +33,6 @@ tmpclaude-*
 
 # Branding configuration (for Claude's reference only)
 BRANDING.md
+
+# Claude Code "don't ask again" approvals: saved per machine, can hold typed-in secrets. Never commit.
+.claude/settings.local.json
